@@ -1,0 +1,11 @@
+class student:
+    def__init__(self, id, CGPA=0):
+    self.id = 223
+    self.CGPA = 3.78
+
+    def display(self):
+        print (self.id)
+        print (self.CGPA)
+
+
+
